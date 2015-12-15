@@ -1,6 +1,20 @@
-.coming {
+* {
     width: 100%;
+    text-align: center;
+}
+
+body * {
+    display: block;
+}
+
+.site-title {
     padding-top: 20%;
+    font-size: 32px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.coming {
     font-size: 24px;
     font-weight: 200;
     text-align: center;
