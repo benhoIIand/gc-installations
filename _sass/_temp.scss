@@ -3,11 +3,8 @@
     text-align: center;
 }
 
-body * {
-    display: block;
-}
-
 .site-title {
+    display: block;
     padding-top: 20%;
     font-size: 32px;
     font-weight: 500;
@@ -15,7 +12,12 @@ body * {
 }
 
 .coming {
+    display: block;
     font-size: 24px;
     font-weight: 200;
     text-align: center;
+}
+
+.facebook-link {
+    display: block;
 }
